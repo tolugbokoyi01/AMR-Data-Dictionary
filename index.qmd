@@ -6,7 +6,7 @@ title: "AMR-Data-Dictionary"
 
 This web page provides metadata information about the data files used for the course Introduction to R, database and reproducibility for AMR epidemiologists.
 
-### Data files: 
+Data files: 
 - gapminder_data.csv
 - gapminder_wide.csv
 - gapminder-FiveYearData.csv
