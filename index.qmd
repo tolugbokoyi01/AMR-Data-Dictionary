@@ -6,12 +6,29 @@ title: "AMR-Data-Dictionary"
 
 This web page provides metadata information about the data files used for the course Introduction to R, database and reproducibility for AMR epidemiologists.
 
-Data files: 
+## Data files: 
+
+A variety of existing and bespoke synthetic data files were used for the training.
+
+### Gapminder files
 - gapminder_data.csv
 - gapminder_wide.csv
 - gapminder-FiveYearData.csv
 - hgt_wgt.csv
 - icd10_data.csv
+
+### AMR related files
+- trusts_data.csv
 - dig_health_hub_amr_v2.csv
+
+
+## Meta data information
+
+### hgt_wgt.csv
+
+Gender: Numeric 0 or 1, 1 indicating male and 0 female
+Age: Text
+Height(cm): Numeric
+Weight(kg): Numeric
 
 
